@@ -1,13 +1,4 @@
-Math 5750/6880: Mathematics of Data Science  
-Project1  
-Fall 2025
-
-### Copy this template repository.
-
-Click  
-> Use this template → create a new repository 
-
-and copy this template repository. Make your new repository is public so that I can see it.  
+This is Bode Packer's Math for Data Science (Math 5750/6880 Fall 2025) Repo for Project 1.
 
 
 ### Open the Jupyter notebook project1.ipynb in Google colab.
